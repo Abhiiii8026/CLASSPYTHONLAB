@@ -1,5 +1,5 @@
-print("""HIMANSHU SINHA
-ROLL NO -2K18CSUN01064
+print("""Abhinav Wadhwa
+ROLL NO -2K18CSUN01142
 CLASS -B-TECH CSE 4A""")
 class Triangle:
     a=0
@@ -88,9 +88,9 @@ class student():
         self.marks=int(input("Enter The Marks Of Student"))
         return (self.marks)
 stu=student()
-stu.name="Halwa"
+stu.name="Abhiiii"
 stu.marks=2000
-stu.Roll_No="2K18CSUN01064"
+stu.Roll_No="2K18CSUN01142"
 print(stu.display())
 print("The age of Student is", stu.setage())
 print("The Update Marks Of Student is", stu.setmarks())
